@@ -33,7 +33,7 @@ Lead(s) (github handle) | Site
 
 ## Team members 
 
-[Coming soon](https://github.com/data2health/project-repo-template/tree/master/team.md)
+[Coming soon](https://github.com/data2health/menRva/blob/master/team.md)
 
 ## Repositories
 
@@ -59,15 +59,15 @@ This project is currently based in a private repository. Public version coming s
 
 ## Evaluation
 
-Coming soon
+[Coming soon](https://github.com/data2health/menRva/blob/master/evaluation.md)
 
 ## Education
 
-Coming soon
+[Coming soon](https://github.com/data2health/menRva/blob/master/education.md)
 
 ## Get involved
 
-Coming soon
+[Coming soon](https://github.com/data2health/menRva/blob/master/engagement.md)
 
 ## Working documents
 
