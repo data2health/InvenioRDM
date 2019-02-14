@@ -10,9 +10,9 @@ Proper collection, indexing, and preservation is vital to the discovery and diss
 
 ## Project Description
 
-Infrastructure that can be easily deployed and managed locally to collect, record, preserve, and disseminate a wide range of digital works across the translational workforce[^1] is critical to enhance their visibility, promote people and their expertise, support attribution of their work, aid the discovery and accessibility by the international scientific community, and support open and FAIR-TLC science. Such an initiative requires a trusted framework for digital objects, good data practice workflows; incorporation of standards and persistent identifiers; incorporation of privacy considerations, and strategies to support implementation and integration as well as incentivize individuals participating in such an ecosystem. Here we are developing an integrated, born-interoperable repository and data catalog to empower researchers as they engage in good data practices around research data management, licensing, preservation, credit, discovery, and reuse of these digital artefacts and data at their hubs. This next-generation repository is being built in partnership with CERN on their Invenio platform. Invenio is a a safe, secure, scalable, and RESTful architecture to power the repositories of CERN and many other organizations in a mature open source community. The software will be available for local level and implementation and we are working in parallel to make a cloud instance available for broad use.
+Infrastructure that can be easily deployed and managed locally to collect, record, preserve, and disseminate a wide range of digital works across the translational workforce^[1]^ is critical to enhance their visibility, promote people and their expertise, support attribution of their work, aid the discovery and accessibility by the international scientific community, and support open and FAIR-TLC science. Such an initiative requires a trusted framework for digital objects, good data practice workflows; incorporation of standards and persistent identifiers; incorporation of privacy considerations, and strategies to support implementation and integration as well as incentivize individuals participating in such an ecosystem. Here we are developing an integrated, born-interoperable repository and data catalog to empower researchers as they engage in good data practices around research data management, licensing, preservation, credit, discovery, and reuse of these digital artefacts and data at their hubs. This next-generation repository is being built in partnership with CERN on their Invenio platform. Invenio is a a safe, secure, scalable, and RESTful architecture to power the repositories of CERN and many other organizations in a mature open source community. The software will be available for local level and implementation and we are working in parallel to make a cloud instance available for broad use.
 
-[^1]: e.g., datasets, protocols, education or engagement materials, technical reports, supplemental materials, survey instruments
+[1]: e.g., datasets, protocols, education or engagement materials, technical reports, supplemental materials, survey instruments
 
 
 ## Contact Person
@@ -41,7 +41,7 @@ This project is currently based in a private repository. Public version coming s
 
 ## Deliverables
 
-* Version 1 of the repository with key first-round features, NGR updates (in progress and in collaboration), incorporation of metadata best practices (per CD2H), incorporation of attribution work to date, and other features
+* Version 1 of the repository with key first-round features, [next-generation repository (NGR)](http://ngr.coar-repositories.org/) updates (in progress and in collaboration), incorporation of metadata best practices (per CD2H), incorporation of attribution work to date, and other features
 * A local NU instance
 * Cloud-based instance 
 * GitHub repo where software can be downloaded, features requested, etc.
@@ -54,8 +54,8 @@ This project is currently based in a private repository. Public version coming s
 ### In addition to the deliverables above...
 
 * Feature parity with Galter Library's current repository (6 months)
-* Addition of selected [next-generation repository features](http://ngr.coar-repositories.org/) (6 months - 1 year)
-* Advanced features next-generation features (1 year +)
+* Addition of selected NGR features (6 months - 1 year)
+* Advanced NGR features (1 year +)
 
 ## Evaluation
 
