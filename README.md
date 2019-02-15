@@ -4,7 +4,7 @@
 This project focuses on development of infrastructure to preserve and disseminate translational research more easily. The portal enhances visibility and access, promotes people and the attribution of their work, and supports open and FAIR-TLC science with good data practice workflows, powerful search and indexing, and privacy standards required for translational research.
 _______________
 
-# Problem Statement
+## Problem Statement
 
 Proper collection, indexing, and preservation is vital to the discovery and dissemination of research output in scientific research. However, many research communities continue to battle the problem of “silos” at the institutional level that hinder discovery of research output. We propose to build infrastructure that can be easily deployed and managed either locally or on a cloud-based platform to collect, record, preserve, and disseminate a wide range of digital works across the translational community to enhance their visibility, promote people and their expertise, support attribution of their work, aid the discovery and accessibility by the international scientific community, and support open and FAIR-TLC science. At the same time, we will use this tool to promote good data practice workflows, incorporate standards and persistent identifiers, and account for privacy standards required for translational research. 
 
@@ -49,6 +49,12 @@ This project is currently based in a private repository. Public version coming s
 * Collaborations with other data catalog/repository stewards to identify shared priorities, opportunities for collaboration, and strategies to enable and support interoperability, data discovery, and sustainability and support for local projects
 * Engagement materials/activities (1-pager, demo video on YouTube, conference presentations, etc.)
 * Roadmap for next phase of work
+
+The relationships between the NGR behaviors and technologies ([image source data](http://ngr.coar-repositories.org/)): 
+
+![alt text](https://github.com/data2health/menRva/blob/master/NGR_Behaviors_and_Technologies.png "NGR Behaviors and Technologies")
+
+
 
 ## Milestones 
 ### In addition to the deliverables above...
