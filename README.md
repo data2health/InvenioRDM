@@ -37,7 +37,8 @@ Lead(s) (github handle) | Site
 
 ## Repositories
 
-This project is currently based in a private repository. Public version coming soon.
+[Review](https://github.com/data2health/repository-and-index-software) of the current repository landscape
+menRva repository (currently private)
 
 ## Deliverables
 
