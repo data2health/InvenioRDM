@@ -15,7 +15,7 @@ Infrastructure that can be easily deployed and managed locally to collect, recor
 \* e.g., datasets, protocols, education or engagement materials, technical reports, supplemental materials, survey instruments
 
 ## Alignment to program objectives
-TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
+See the Funding Opportunity Announcement (FOA) [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md).
 
 ## Want to work with us? Get involved
 Please go to our [Engagement page](https://github.com/data2health/menRva/blob/master/engagement.md) to learn more about our needs, good first contributions, and more! We're excited to have you join us.
