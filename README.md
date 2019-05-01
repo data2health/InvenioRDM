@@ -38,7 +38,7 @@ Lead(s) (github handle) | Site
 
 ## Team members 
 
-For a list of team members see this [link](https://github.com/data2health/menRva/blob/master/team.md).
+Our team members are listed [here](https://github.com/data2health/menRva/blob/master/team.md).
 
 ## Repositories
 
