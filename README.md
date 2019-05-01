@@ -17,6 +17,9 @@ Infrastructure that can be easily deployed and managed locally to collect, recor
 ## Alignment to program objectives
 TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
 
+## Want to work with us? Get involved
+Please go to our [Engagement page](https://github.com/data2health/menRva/blob/master/engagement.md) to learn more about our needs, good first contributions, and more! We're excited to have you join us.
+
 ## Contact Person
 
 | **Point person (github handle)**  | **Site** | **Program Director** |
@@ -57,8 +60,6 @@ The relationships between the NGR behaviors and technologies ([image source data
 
 ![alt text](https://github.com/data2health/menRva/blob/master/NGR_Behaviors_and_Technologies.png "NGR Behaviors and Technologies")
 
-
-
 ## Milestones 
 ### In addition to the deliverables above...
 
@@ -73,10 +74,6 @@ The relationships between the NGR behaviors and technologies ([image source data
 ## Education
 
 [Coming soon](https://github.com/data2health/menRva/blob/master/education.md)
-
-## Get involved
-
-[Coming soon](https://github.com/data2health/menRva/blob/master/engagement.md)
 
 ## Working documents
 
