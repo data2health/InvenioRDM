@@ -69,7 +69,7 @@ The relationships between the NGR behaviors and technologies ([image source data
 
 ## Evaluation
 
-[Coming soon](https://github.com/data2health/menRva/blob/master/evaluation.md)
+Our evaluation plan can be found [here](https://github.com/data2health/menRva/blob/master/evaluation.md).
 
 ## Education
 
