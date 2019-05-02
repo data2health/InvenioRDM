@@ -1,4 +1,4 @@
-# Welcome to the MenRva project #
+# Welcome to the menRva project #
 Thanks for being interested in the work we are doing. We’re glad you’re here and look forward to your contributions. You don’t need to code to contribute to our project. At present, we are looking for your help in the following areas:
 
 * Review/comment on our repository [competitive intelligence landscape](https://github.com/data2health/menRva/issues/77). Who should we include? What information do you want to share? 
