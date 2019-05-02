@@ -4,12 +4,12 @@
 Name | GitHub Handle | Site
 -- | -- | --
 Matt Carson | [carsonicator](https://github.com/carsonicator) | Northwestern
-Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Kristi Holmes | [kristiholmes](http://github.com/kristiholmes) | Northwestern
 
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
+Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Dave Eichmann | [eichmann](http://github.com/eichmann) | Iowa
 Tricia Francis | [tricfran](http://github.com/tricfran) | JHU
 Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
