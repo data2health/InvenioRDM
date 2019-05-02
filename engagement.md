@@ -14,7 +14,7 @@ If you are interested in participating, and haven’t done so yet, please onboar
 
 To make your first contribution, please look for the label, **“Good first issue”.**
 
-Want to ask a question or just say hi? Please do! You can find us on the #MenRva channel on the [CD2H Slack](https://cd2h.slack.com/messages)
+Want to ask a question or just say hi? Please do! You can find us on the #menRva channel on the [CD2H Slack](https://cd2h.slack.com/messages)
 
 We look forward to partnering with you!
 
