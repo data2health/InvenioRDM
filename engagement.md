@@ -36,7 +36,7 @@ ______________
 * Conferences/Workshops  - Metadata workshop at Scripps (Fall 2019)
 * Conferences/Workshops  - [COAR 2019 Annual Meeting](https://www.coar-repositories.org/community/events/coar-annual-meeting-2019/) (Spring 2019)
 * Conferences/Workshops - Attend Open Source Conference-[OSCON](https://conferences.oreilly.com/oscon/oscon-or)(Summer 2019)
-* Investigate a collaboration with the [Data Catalog Collaboration Project](https://www.datacatalogcollaborationproject.org/)  (DCCP) to make our systems interoperable
+* Explore collaborations with existing systems such as the [Data Catalog Collaboration Project](https://www.datacatalogcollaborationproject.org/)  (DCCP) to enhance interoperability. 
 * Collaboration with the [Institute for Innovations in Developmental Sciences](https://devsci.northwestern.edu/), a transdisciplinary group at Northwestern University. We attend weekly meetings to understand their needs, and will work with them as our first user group upon deployment. 
 * Create documentation and support for the community
 * Periodic briefs and/or presentations to key stakeholders
