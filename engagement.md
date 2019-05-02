@@ -23,7 +23,7 @@ _____________
 * CTSAs
 * CD2H Partners
 * Open Science fans
-* We’re working to promote best practices and openness across scientific community, The MenRva project facilitates activities between communities: funders, journals, grant-funding institutions, researchers, physician-scientist.
+* We’re working to promote best practices and openness across scientific community, The menRva project facilitates activities between communities: funders, journals, grant-funding institutions, researchers, physician-scientist.
 
 ______________
 **Some of our Community Engagement Plans**
