@@ -73,7 +73,7 @@ Our evaluation plan can be found [here](https://github.com/data2health/menRva/bl
 
 ## Education
 
-[Coming soon](https://github.com/data2health/menRva/blob/master/education.md)
+Our education plan can be found [here](https://github.com/data2health/menRva/blob/master/education.md).
 
 ## Working documents
 
