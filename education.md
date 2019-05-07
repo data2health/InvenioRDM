@@ -1,6 +1,6 @@
 ## menRva Education Plan
 
-Our educational focus will be two-fold. Below is a list of activities we have planned to create educational opportunities for menRva adopters as well as professional training activities the menRva team will be completing so we can fully realize the goals of this project. 
+Our educational focus will be two-fold. Below is a list of activities we have planned to create educational opportunities for menRva adopters, as well as the professional training our team will be completing so we can fully realize the goals of this project. 
 
 * Opportunity for training and professional development - Our lead engineer spent 2 weeks training at CERN, working with developers on the Invenio platform. **COMPLETE**
 * Opportunity for training/professional development - [COAR 2019 Annual Meeting](https://www.coar-repositories.org/community/events/coar-annual-meeting-2019/) (Spring 2019)
