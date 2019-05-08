@@ -15,9 +15,11 @@ Our educational focus will be two-fold. Below is a list of activities we have pl
   * Pre-conference Workshop: Strategic and Technical Meeting of Repository Networks
   * Pre-conference Workshop: Facilitate Research Communities Adoption of Open Science Publishing Principles: The Role of Repositories and the OpenAIRE-Connect Services
   * Pre-conference Workshop: Balancing Local Metadata Requirements with Universal Interoperability
-* Attend [Open Repositories 2019](https://or2019.blogs.uni-hamburg.de/): (Summer 2019)
-  * menRva team members will participate in the Invenio User Group workshop, which focuses on sharing knowledge and experiences to drive forward the forthcoming developments of the Invenio platform.
-  * Another member of this team will attend a Lean UX workshop to support better ideation, prioritization, and ability to “package a service", as well as a community building workshop to help us better support our collaborations.
+* Participate in [Open Repositories 2019](https://or2019.blogs.uni-hamburg.de/): (Summer 2019)
+  * Workshop: Hands on User Experience. Concepts and methods that takes you from idea to prototype in 3 hours - a Lean UX workshop to support better ideation, prioritization, and ability to “package a service"
+  * Workshop: The human infrastructure: building community to support repository collaborations - a community building workshop to help us better support our collaborations
+  * Workshop: Invenio User Group workshop - focuses on sharing knowledge and experiences to drive forward the forthcoming developments of the Invenio platform.
+  * Workshop: Measuring data reuse with the COUNTER Code of Practice for Research Dat
 * Attend [OSCON](https://conferences.oreilly.com/oscon/oscon-or): (Summer 2019)
   * This is an open source conference offering complete coverage of open source technology and projects across the world. 
   * menRva team participants will be engaging in technical training (software artchitecture, Python NLP workshops) and training to help us better engage, grow, and support open source communities. 
