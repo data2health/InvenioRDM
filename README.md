@@ -79,6 +79,3 @@ Our education plan can be found [here](https://github.com/data2health/menRva/blo
 
 Coming soon
 
-## Slack room
-
-Coming soon
