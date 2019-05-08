@@ -18,7 +18,9 @@ Infrastructure that can be easily deployed and managed locally to collect, recor
 See the Funding Opportunity Announcement (FOA) [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md).
 
 ## Want to work with us? Get involved
-Please go to our [Engagement page](https://github.com/data2health/menRva/blob/master/engagement.md) to learn more about our needs, good first contributions, and more! We're excited to have you join us.
+Please go to our [Engagement page](https://github.com/data2health/menRva/blob/master/engagement.md) to learn more about our needs, how to be on board, good first contributions, and more! We're excited to have you join us. 
+
+Want to ask a question or just say hi? Please do! If you have already onboarded you can find us on the #menRva channel on the [CD2H Slack](https://cd2h.slack.com/messages)
 
 ## Contact Person
 
