@@ -3,7 +3,7 @@
 Our educational focus will be two-fold. Below is a list of activities we have planned to create educational opportunities for menRva adopters, as well as the professional training our team will be completing so we can fully realize the goals of this project. 
 
 ### Community Support/Training
-* Create a guide on setting up menRva locally. **[COMPLETE]** 
+* Create a guide on setting up menRva locally **[COMPLETE]** 
 * Create documentation and support process for menRva community **[IN-PROGRESS]** 
 * Create use cases that will support menRva adopters to better understand what menRva can do **[IN-PROGRESS]** 
 
