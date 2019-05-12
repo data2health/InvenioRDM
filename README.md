@@ -24,11 +24,9 @@ Want to ask a question or just say hi? Please do! If you have already onboarded 
 
 ## Contact Person
 
-| **Point person (github handle)**  | **Site** | **Program Director** |
-| ---| --- | --- |
-| Matt Carson (@carsonicator) | Northwestern | Melissa Haendel (@mellybelly)  |
-| Kristi Holmes (@kristiholmes) | Northwestern | | |
-
+| **Point person (github handle)**  | **Site** |
+----------|--------------|
+| Matt Carson (@carsonicator) | Northwestern
 ## Leads 
 
 Project scientific leadership, should be 1-3 persons. 
@@ -68,6 +66,11 @@ The relationships between the NGR behaviors and technologies ([image source data
 * Feature parity with Galter Library's current repository (6 months)
 * Addition of selected NGR features (6 months - 1 year)
 * Advanced NGR features (1 year +)
+
+
+## Engagement
+
+Our engagement efforts can be found [here](https://github.com/data2health/menRva/blob/master/engagement.md).
 
 ## Evaluation
 
