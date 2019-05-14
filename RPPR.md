@@ -38,8 +38,8 @@ For this work, we are leveraging Invenio, a software platform created by the Eur
 
 # Timeline (monthly)
 - 7/1/19 Landscape analysis of repositories, repository frameworks, and data catalogs (here)
-- 8/1/19 DigitalHub parity
-- 9/1/19 Documentation & use cases
+- 8/31/19 DigitalHub parity
+- 9/15/19 Documentation & use cases
 - 9/15/19 Local instance deployed at NU (example of a local node)
 - 9/15/19 Repository & data index for local deployment in container
 - 9/15/19 outreach and engagement with stewards for discovery engine (ongoing)
