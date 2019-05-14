@@ -47,26 +47,14 @@ Our team members are listed [here](https://github.com/data2health/menRva/blob/ma
 
 ## Deliverables
 
-* Version 1 of the repository with key first-round features, [next-generation repository (NGR)](http://ngr.coar-repositories.org/) updates (in progress and in collaboration), incorporation of metadata best practices (per CD2H), incorporation of attribution work to date, and other features
-* A local NU instance
-* Cloud-based instance 
-* GitHub repo where software can be downloaded, features requested, etc.
-* Ongoing requirements gathering, landscape analysis, and testing - with results disseminated broadly
-* Collaborations with other data catalog/repository stewards to identify shared priorities, opportunities for collaboration, and strategies to enable and support interoperability, data discovery, and sustainability and support for local projects
-* Engagement materials/activities (1-pager, demo video on YouTube, conference presentations, etc.)
-* Roadmap for next phase of work
+* Repository & data index for local deployment
+* Repository landscape analysis
+* Documentation & use cases
+* Branding and outreach
 
 The relationships between the NGR behaviors and technologies ([image source data](http://ngr.coar-repositories.org/)): 
 
 ![alt text](https://github.com/data2health/menRva/blob/master/NGR_Behaviors_and_Technologies.png "NGR Behaviors and Technologies")
-
-## Milestones 
-### In addition to the deliverables above...
-
-* Feature parity with Galter Library's current repository (6 months)
-* Addition of selected NGR features (6 months - 1 year)
-* Advanced NGR features (1 year +)
-
 
 ## Engagement
 
