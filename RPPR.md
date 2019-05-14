@@ -37,7 +37,7 @@ For this work, we are leveraging Invenio, a software platform created by the Eur
 - Guidebook content (Repository architecture and culture to support CTS, Best Practices for Disseminating CTS)
 
 # Timeline (monthly)
-- 7/1/19 Landscape analysis of repositories, repository frameworks, and data catalogs (here)
+- 7/1/19 Landscape analysis of repositories, repository frameworks, and data catalogs
 - 8/31/19 DigitalHub parity
 - 9/15/19 Documentation & use cases
 - 9/15/19 Local instance deployed at NU (example of a local node)
