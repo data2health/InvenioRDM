@@ -36,6 +36,17 @@ For this work, we are leveraging Invenio, a software platform created by the Eur
 - Branding and outreach
 - Guidebook content (Repository architecture and culture to support CTS, Best Practices for Disseminating CTS)
 
+# Deliverables
+
+* Repository & data index for local deployment
+* Repository landscape analysis
+* Documentation & use cases
+* Branding and outreach
+
+The relationships between the NGR behaviors and technologies ([image source data](http://ngr.coar-repositories.org/)): 
+
+![alt text](https://github.com/data2health/menRva/blob/master/NGR_Behaviors_and_Technologies.png "NGR Behaviors and Technologies")
+
 # Timeline (monthly)
 - 7/1/19 Landscape analysis of repositories, repository frameworks, and data catalogs
 - 8/31/19 DigitalHub parity
