@@ -54,8 +54,7 @@ The relationships between the NGR behaviors and technologies ([image source data
 - 9/15/19 A containerized menRva instance will be deployed and installed at NU in a local production environment. The menRva team will continue to add features and functionality into 2020.
 - 9/15/19 outreach and engagement with stewards for discovery engine (ongoing)
 - 10/15/19 Code made available for the community to download
-- 9/20/19 Guidebook Chapter: Repository architecture and culture to support CTS
-- 12/1/19 Guidebook Chapter: Best Practices for Disseminating CTS
+- 11/20/19 Guidebook Chapter: Repository architecture and culture to support CTS
 - 4/1/20 Local instance deployed at NCATS cloud (example of a local node & serves as master index)
 - 6/15/20 menRva will be deployed in the NCATS cloud and will contain indexed user submitted records and digital objects from more than one institution.
 - 6/15/20  next-generation repository behaviors supported (in collaboration with CERN and NII)
