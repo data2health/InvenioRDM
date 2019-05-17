@@ -52,12 +52,12 @@ The relationships between the NGR behaviors and technologies ([image source data
 - 8/31/19 DigitalHub parity
 - 9/15/19 Documentation & use cases
 - 9/15/19 A containerized menRva instance will be deployed and installed at NU in a local production environment, and the menRva team will continue to add features and functionality into 2020
-- 9/15/19 outreach and engagement with stewards for discovery engine (ongoing)
+- 9/15/19 Outreach and engagement with stewards for discovery engine (ongoing)
 - 10/15/19 Code made available for the community to download
 - 11/20/19 Guidebook Chapter: Repository architecture and culture to support CTS
 - 4/1/20 Local instance deployed at NCATS cloud (example of a local node & serves as master index)
 - 6/15/20 menRva will be deployed in the NCATS cloud and will contain indexed user submitted records and digital objects from more than one institution
-- 6/15/20  next-generation repository behaviors supported (in collaboration with CERN and NII)
+- 6/15/20  Next-generation repository behaviors supported (in collaboration with CERN and NII)
 
 # Potential Pitfalls and Alternative Strategies
 The project team has carefully considered the project, scope, and technology in the development of this project during its visioning and development -- and we have carefully as well as throughout every stage stage since launch in support of continuous improvement. Moreover, we have worked carefully with multiple stakeholder groups gather input on desired features, requirements, and use cases. Even with careful planning, challenges often arise and must be addressed.  Some of the key outstanding potential challenges include:
