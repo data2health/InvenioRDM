@@ -51,8 +51,7 @@ The relationships between the NGR behaviors and technologies ([image source data
 - 7/1/19 Landscape analysis of repositories, repository frameworks, and data catalogs
 - 8/31/19 DigitalHub parity
 - 9/15/19 Documentation & use cases
-- 9/15/19 Local instance deployed at NU (example of a local node)
-- 9/15/19 Repository & data index for local deployment in container
+- 9/15/19 A containerized menRva instance will be deployed and installed at NU in a local production environment. The menRva team will continue to add features and functionality into 2020.
 - 9/15/19 outreach and engagement with stewards for discovery engine (ongoing)
 - 9/20/19 Guidebook Chapter: Repository architecture and culture to support CTS
 - 12/1/19 Guidebook Chapter: Best Practices for Disseminating CTS
