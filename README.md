@@ -72,3 +72,5 @@ Our education plan can be found [here](https://github.com/data2health/menRva/blo
 
 Coming soon
 
+## Code of Conduct
+Our Code of Conduct can be found [here](https://github.com/data2health/menRva/blob/master/CODE_OF_CONDUCT.md)
