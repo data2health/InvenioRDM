@@ -56,7 +56,7 @@ The relationships between the NGR behaviors and technologies ([image source data
 - 10/15/19 Code made available for the community to download
 - 11/20/19 Guidebook Chapter: Repository architecture and culture to support CTS
 - 4/1/20 Local instance deployed at NCATS cloud (example of a local node & serves as master index)
-- 6/15/20 menRva will be deployed in the NCATS cloud and will contain indexed user submitted records and digital objects from more than one institution.
+- 6/15/20 menRva will be deployed in the NCATS cloud and will contain indexed user submitted records and digital objects from more than one institution
 - 6/15/20  next-generation repository behaviors supported (in collaboration with CERN and NII)
 
 # Potential Pitfalls and Alternative Strategies
