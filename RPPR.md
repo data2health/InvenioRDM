@@ -16,7 +16,7 @@ It is important for us to be able to demonstrate that what we are creating works
 
 **Invenio**
 
-For this work, we are leveraging [Invenio](https://invenio-software.org/), a software platform created by the European Organization for Nuclear Research (CERN) and used as the group’s main repository for more than 10 years and the foundation of Zenodo, the foundation of the European OpenAire repository network. The Invenio team recently released a modernized, safe, and scalable version of the code. Invenio 3.0 offers a number of advantages ((https://invenio-software.org/)):
+For this work, we are leveraging [Invenio](https://invenio-software.org/), a software platform created by the European Organization for Nuclear Research (CERN) and used as the group’s main repository for more than 10 years and the foundation of Zenodo, the foundation of the European OpenAire repository network. The Invenio team recently released a modernized, safe, and scalable version of the code. Invenio 3.0 offers a number of advantages (https://invenio-software.org/):
 - Safe: Created with security and long-term preservation in mind. 
 - Scalable: Invenio is fast. Designed to manage 100M+ records and petabytes of files; data can be archived independently of the size. 
 - RESTful: Born for the web, is JSON-native and provides RESTful APIs out of the box that will allow building apps on top of it.
