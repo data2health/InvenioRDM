@@ -30,15 +30,12 @@ For this work, we are leveraging [Invenio](https://invenio-software.org/), a sof
 
 # Expected Outcomes
 
-- Repository & data index for local deployment
-- Repository landscape analysis
-- Documentation & use cases
-- Branding and outreach
-- Guidebook content (Repository architecture and culture to support CTS, Best Practices for Disseminating CTS)
+- Establishment of infrastructure that can be easily deployed and managed locally to collect, record, preserve, and disseminate a wide range of digital works across the translational workforce (e.g., datasets, protocols, education or engagement materials, technical reports, supplemental materials, survey instruments).
+- This infrastructure is necessary to enhance their visibility, promote people and their expertise, support attribution of their work, aid the discovery and accessibility of datasets and other digital objects by the international scientific community, and support open and FAIR science. 
 
 # Deliverables
 
-* Repository & data index for local deployment
+* Repository & data index for local deployment by hubs
 * Repository landscape analysis
 * Documentation & use cases
 * Branding and outreach
