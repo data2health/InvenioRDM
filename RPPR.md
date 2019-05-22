@@ -39,7 +39,7 @@ For this work, we are leveraging [Invenio](https://invenio-software.org/), a sof
 * Repository landscape analysis
 * Documentation & use cases
 * Branding and outreach
-- Guidebook content (Repository architecture and culture to support CTS, Best Practices for Disseminating CTS)
+- Guidebook content (Repositories and CTS; Discoverability of datasets)
 
 # Timeline (monthly)
 - 7/1/19 Landscape analysis of repositories, repository frameworks, and data catalogs
