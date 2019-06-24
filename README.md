@@ -1,4 +1,4 @@
-# menRva
+# InvenioRDM
 ## An interdisciplinary open research repository
 
 This project focuses on development of infrastructure to preserve and disseminate translational research more easily. The portal enhances visibility and access, promotes people and the attribution of their work, and supports open and FAIR-TLC science with good data practice workflows, powerful search and indexing, and privacy standards required for translational research.
@@ -20,7 +20,7 @@ See the Funding Opportunity Announcement (FOA) [here](https://github.com/data2he
 ## Want to work with us? Get involved
 Please go to our [Engagement page](https://github.com/data2health/InvenioRDM/blob/master/engagement.md) to learn more about our needs, how to be on board, good first contributions, and more! We're excited to have you join us. 
 
-Want to ask a question or just say hi? Please do! If you have already onboarded you can find us on the #menRva channel on the [CD2H Slack](https://cd2h.slack.com/messages)
+Want to ask a question or just say hi? Please do! If you have already onboarded you can find us on the #InvenioRDM channel on the [CD2H Slack](https://cd2h.slack.com/messages)
 
 ## Contact Person
 
@@ -38,12 +38,12 @@ Lead(s) (github handle) | Site
 
 ## Team members 
 
-Our team members are listed [here](https://github.com/data2health/menRva/blob/master/team.md).
+Our team members are listed [here](https://github.com/data2health/InvenioRDM/blob/master/team.md).
 
 ## Repositories
 
 * [Review](https://github.com/data2health/repository-and-index-software) of the current repository landscape
-* menRva repository (currently private)
+* InvenioRDM repository (currently private)
 
 ## Deliverables
 
@@ -54,23 +54,23 @@ Our team members are listed [here](https://github.com/data2health/menRva/blob/ma
 
 The relationships between the NGR behaviors and technologies ([image source data](http://ngr.coar-repositories.org/)): 
 
-![alt text](https://github.com/data2health/menRva/blob/master/NGR_Behaviors_and_Technologies.png "NGR Behaviors and Technologies")
+![alt text](https://github.com/data2health/InvenioRDM/blob/master/NGR_Behaviors_and_Technologies.png "NGR Behaviors and Technologies")
 
 ## Engagement
 
-Our engagement efforts can be found [here](https://github.com/data2health/menRva/blob/master/engagement.md).
+Our engagement efforts can be found [here](https://github.com/data2health/InvenioRDM/blob/master/engagement.md).
 
 ## Evaluation
 
-Our evaluation plan can be found [here](https://github.com/data2health/menRva/blob/master/evaluation.md).
+Our evaluation plan can be found [here](https://github.com/data2health/InvenioRDM/blob/master/evaluation.md).
 
 ## Education
 
-Our education plan can be found [here](https://github.com/data2health/menRva/blob/master/education.md).
+Our education plan can be found [here](https://github.com/data2health/InvenioRDM/blob/master/education.md).
 
 ## Working documents
 
 Coming soon
 
 ## Code of Conduct
-Our Code of Conduct can be found [here](https://github.com/data2health/menRva/blob/master/CODE_OF_CONDUCT.md)
+Our Code of Conduct can be found [here](https://github.com/data2health/InvenioRDM/blob/master/CODE_OF_CONDUCT.md)
