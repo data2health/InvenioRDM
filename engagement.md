@@ -1,9 +1,9 @@
-# Welcome to the menRva project #
+# Welcome to the InvenioRDM project #
 Thanks for being interested in the work we are doing. We’re glad you’re here and look forward to your contributions. You don’t need to code to contribute to our project. At present, we are looking for your help in the following areas:
 
-* Review/comment on our repository [competitive intelligence landscape](https://github.com/data2health/menRva/issues/77). Who should we include? What information do you want to share? 
+* Review/comment on our repository [competitive intelligence landscape](https://github.com/data2health/InvenioRDM/issues/77). Who should we include? What information do you want to share? 
 
-* [Feedback/brainstorming](https://github.com/data2health/menRva/issues/76). What features do you want to see in a repository or data index?
+* [Feedback/brainstorming](https://github.com/data2health/InvenioRDM/issues/76). What features do you want to see in a repository or data index?
 
 * We will need pilot sites for our cloud-deployable version later this year. Interested in learning more? Email lisa dot okeefe at northwestern dot edu
 
@@ -14,7 +14,7 @@ If you are interested in participating, and haven’t done so yet, please onboar
 
 To make your first contribution, please look for the label, **“Good first issue”.**
 
-Want to ask a question or just say hi? Please do! You can find us on the #menRva channel on the [CD2H Slack](https://cd2h.slack.com/messages)
+Want to ask a question or just say hi? Please do! You can find us on the #InvenioRDM channel on the [CD2H Slack](https://cd2h.slack.com/messages)
 
 We look forward to partnering with you!
 
@@ -23,14 +23,14 @@ _____________
 * CTSAs
 * CD2H Partners
 * Open Science fans
-* We’re working to promote best practices and openness across scientific community, The menRva project facilitates activities between communities: funders, journals, grant-funding institutions, researchers, physician-scientist.
+* We’re working to promote best practices and openness across scientific community, The InvenioRDM project facilitates activities between communities: funders, journals, grant-funding institutions, researchers, physician-scientist.
 
 ______________
 **Some of our Community Engagement Plans**
 
 * We will contact all CD2H participants who’ve onboarded and indicated interest in this project, say hi, remind them of our github and direct them here. 
 * We will contact people who have indicated interest in our project but never onboarded, share this github repo. 
-* Make use of #MenRva on [CD2H Slack](https://cd2h.slack.com/messages). This channel will be used to chat about the project, answer questions, be a community spot. We'll also share relevant files, presentations, announcements for feedback, networking 
+* Make use of #InvenioRDM on [CD2H Slack](https://cd2h.slack.com/messages). This channel will be used to chat about the project, answer questions, be a community spot. We'll also share relevant files, presentations, announcements for feedback, networking 
 * Social coding - Use Github to communicate, share work and collaborate with above mentioned communities
 * Make it easy. We'll be sure to tag people who’ve expressed interest in helping with a certain aspect of the project. 
 * Conferences/Workshops  - Metadata workshop at Scripps (Fall 2019)
