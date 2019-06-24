@@ -10,7 +10,7 @@ Building on this foundation, in year 3 the Northwestern team will produce a cont
 
 **Agile Methods**
 
-The menRva project uses the Agile development methodology. This methodology embraces constant change and project complexity. Development is separated into two-week sprints. The sprint is kicked off with a planning meeting where it is decided what work will be completed in the two-week increment, and how the work will be achieved. Any dependencies or blockers are discussed at this time.  The team has daily stand-ups where reports of work are shared, as well as concerns or blockers. Course corrections are made quickly. The Agile methodology promotes communication, flexibility and a product mindset where the needs of the user are taken into account. This framework promotes continuous iteration of feedback, development, planning, integration, and testing through the lifecycle of the project. Development and testing are concurrent, unlike the Waterfall model which mandates all development must be complete before testing can begin.
+The InvenioRDM project uses the Agile development methodology. This methodology embraces constant change and project complexity. Development is separated into two-week sprints. The sprint is kicked off with a planning meeting where it is decided what work will be completed in the two-week increment, and how the work will be achieved. Any dependencies or blockers are discussed at this time.  The team has daily stand-ups where reports of work are shared, as well as concerns or blockers. Course corrections are made quickly. The Agile methodology promotes communication, flexibility and a product mindset where the needs of the user are taken into account. This framework promotes continuous iteration of feedback, development, planning, integration, and testing through the lifecycle of the project. Development and testing are concurrent, unlike the Waterfall model which mandates all development must be complete before testing can begin.
 
 It is important for us to be able to demonstrate that what we are creating works as intended. Each function (feature) is associated with a user story which is worked on during a sprint (or sprints). Acceptance criteria is used to confirm the function meets requirements.  This is essentially a checklist that verify the user story is completed and working. Before a story can be marked as ‘done’, all criteria must be fulfilled so that it’s ensured the user story works as planned and tested. Continuous integration and testing are important to this process.  This is a different mindset than the more old school waterfall practice where it is only at the end the product is tested. Using that methodology, if a requirement error is found or made, then the project must start from the beginning to fix deficits. 
 
@@ -45,13 +45,13 @@ For this work, we are leveraging [Invenio](https://invenio-software.org/), a sof
 - 7/1/19 Landscape analysis of repositories, repository frameworks, and data catalogs
 - 8/31/19 DigitalHub parity
 - 9/15/19 Documentation & use cases
-- 9/15/19 A containerized menRva instance will be deployed and installed at NU in a local production environment, and the menRva team will continue to add features and functionality into 2020
+- 9/15/19 A containerized InvenioRDM instance will be deployed and installed at NU in a local production environment, and the InvenioRDM team will continue to add features and functionality into 2020
 - 9/15/19 Outreach and engagement with stewards for data discovery engine (ongoing)
 - 10/1/19 Begin work with 1+ pilot implementation sites; this deliverable and subsequent work toward it will depend on local timelines at pilot sites (engagement to identify pilots has begun)
 - 10/15/19 Code made available for the community to download
 - 11/20/19 Guidebook Chapter: Repository architecture and culture to support CTS
 - 4/1/20 Local instance deployed at NCATS cloud (example of a local node & serves as master index)
-- 6/15/20 menRva will be deployed in the NCATS cloud and will contain indexed user submitted records and digital objects from more than one institution
+- 6/15/20 InvenioRDM will be deployed in the NCATS cloud and will contain indexed user submitted records and digital objects from more than one institution
 - 6/15/20  Next-generation repository behaviors supported (in collaboration with CERN and NII)
 
 # Potential Pitfalls and Alternative Strategies
