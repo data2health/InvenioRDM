@@ -9,6 +9,7 @@ Kristi Holmes | [kristiholmes](http://github.com/kristiholmes) | Northwestern
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
+Chris Amos | [github.com](http://github.com) | Baylor
 Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Dave Eichmann | [eichmann](http://github.com/eichmann) | Iowa
 Tricia Francis | [tricfran](http://github.com/tricfran) | JHU
