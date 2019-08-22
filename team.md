@@ -38,7 +38,7 @@ Justin Guinney | [jguinney](http://github.com/jguinney) | Sage
 Melissa Haendel | [mellybelly](http://github.com/mellybelly) | OHSU
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Harold Lehmann | [hlehmann17](https://github.com/hlehmann17) | JHU
-Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | #N/A
+Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Svetlana Rojevsky | [github.com](http://github.com) | Tufts
