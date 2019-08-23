@@ -20,7 +20,7 @@ See the Funding Opportunity Announcement (FOA) [here](https://github.com/data2he
 ## Want to work with us? Get involved
 Please go to our [Engagement page](https://github.com/data2health/InvenioRDM/blob/master/engagement.md) to learn more about our needs, how to be on board, good first contributions, and more! We're excited to have you join us. 
 
-Want to ask a question or just say hi? Please do! If you have already onboarded you can find us on the [#InvenioRDM](https://app.slack.com/client/T4SPTQGE7/CGH677GUT) channel on the [CD2H Slack](https://cd2h.slack.com/messages)
+Want to ask a question or just say hi? Please do! If you have already onboarded you can find us on the [#InvenioRDM](https://app.slack.com/client/T4SPTQGE7/CGH677GUT) channel on the [CD2H Slack](https://cd2h.slack.com/messages).
 
 ## Contact Person
 
