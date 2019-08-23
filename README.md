@@ -1,8 +1,18 @@
 # InvenioRDM
+
+### Welcome!
+
+We're glad you came by to check out InvenioRDM! We welcome input and feedback from anyone interested in our project. There are several ways to contribute:
+
+* The [#InvenioRDM](https://app.slack.com/client/T4SPTQGE7/CGH677GUT) channel on the [CD2H Slack](https://cd2h.slack.com/messages) is the place to chat with the InvenioRDM community in CD2H.
+* More details about engaging with the InvenioRDM team can be found [here](https://github.com/data2health/InvenioRDM/blob/master/engagement.md).
+* Contact [Kristi](https://github.com/kristiholmes) or [Matt](https://github.com/carsonicator) if you have any questions about our work.
+
+_______________
+
 ## An interdisciplinary open research repository
 
 This project focuses on development of infrastructure to preserve and disseminate translational research more easily. The portal enhances visibility and access, promotes people and the attribution of their work, and supports open and FAIR-TLC science with good data practice workflows, powerful search and indexing, and privacy standards required for translational research.
-_______________
 
 ## Problem Statement
 
