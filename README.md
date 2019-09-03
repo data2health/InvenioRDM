@@ -53,7 +53,7 @@ Our team members are listed [here](https://github.com/data2health/InvenioRDM/blo
 ## Repositories
 
 * [Review](https://github.com/data2health/repository-and-index-software) of the current repository landscape
-* [InvenioRDM-at-NU repository](https://github.com/galterlibrary/InvenioRDM-at-NU)
+* [InvenioRDM-at-NU](https://github.com/galterlibrary/InvenioRDM-at-NU)
 
 ## Deliverables
 
