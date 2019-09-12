@@ -2,13 +2,19 @@
 
 ### Welcome!
 
-We're glad you came by to check out InvenioRDM! We welcome input and feedback from anyone interested in our project. There are several ways to contribute:
+InvenioRDM enables organizations to securely house research products and make them discoverable, shareable, and citable – from publications and presentations to datasets, software, lay summaries, policy documents, and guidelines. InvenioRDM is being developed as part of a large, multi-organization collaboration in partnership with the [European Organization for Nuclear Research (CERN)](https://home.cern/), birthplace of the World Wide Web and developers of the [Zenodo](https://zenodo.org/) RDM for the European community. Together we are working to build a wide range of features that can help power biomedical research and support data sharing, innovation, knowledge dissemination, and interdisciplinary collaboration.
 
-* The [#InvenioRDM](https://app.slack.com/client/T4SPTQGE7/CGH677GUT) channel on the [CD2H Slack](https://cd2h.slack.com/messages) is the place to chat with the InvenioRDM community in CD2H.
-* More details about engaging with the InvenioRDM team can be found [here](https://github.com/data2health/InvenioRDM/blob/master/engagement.md).
-* Contact [Kristi](https://github.com/kristiholmes) or [Matt](https://github.com/carsonicator) if you have any questions about our work.
+Our work is driven by user needs and informed by best practices and standards, including those that help define [Next Generation Repositories](http://ngr.coar-repositories.org/) as a foundation for a distributed, globally-networked infrastructure for scholarly communication, discovery, and innovation. 
 
-_______________
+Visit our [test site](http://bit.ly/inveniordm-at-nu) to try out InvenioRDM for yourself!
+
+[Email](mailto:invenioRDM@northwestern.edu) us if you have questions or if you’d like to request a test user name and password for this site so you can create records of your own.
+
+Join us! Get updates and test new releases on the [product site](https://invenio-software.org/), [email](mailto:invenioRDM@northwestern.edu) us to request a demonstration or chat, take a look at our [competitive landscape analysis](https://github.com/data2health/repository-and-index-software), and get involved with collaboration and discussion through our [open source project](https://github.com/inveniosoftware/invenio-app-rdm). 
+
+_This project is funded in part by the CTSA Program [National Center for Data to Health (CD2H)](https://ctsa.ncats.nih.gov/cd2h/) and supported by the NIH National Center for Advancing Translational Sciences, Grant Number U24TR002306, to help guide the cultural and technological changes necessary for data and informatics to improve research and health care._
+
+________________
 
 ## An interdisciplinary open research repository
 
