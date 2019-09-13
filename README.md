@@ -10,9 +10,9 @@ Visit our [test site](http://bit.ly/inveniordm-at-nu) to try out InvenioRDM for 
 
 Join us!
 * Check out the [#inveniordm](https://app.slack.com/client/T4SPTQGE7/CGH677GUT) channel on the [CD2H Slack](https://cd2h.slack.com/messages) to chat with the InvenioRDM community in CD2H.
-* [Email](mailto:invenioRDM@northwestern.edu) us to request a demonstration or chat
-* Get updates and test new releases on the [product site](https://invenio-software.org/)
-* Take a look at our [competitive landscape analysis](https://github.com/data2health/repository-and-index-software)
+* [Email](mailto:invenioRDM@northwestern.edu) us to request a demonstration or chat.
+* Get updates and test new releases on the [product site](https://invenio-software.org/).
+* Take a look at our [competitive landscape analysis](https://github.com/data2health/repository-and-index-software).
 * Get involved with collaboration and discussion through our [open source project](https://github.com/inveniosoftware/invenio-app-rdm). 
 
 _This project is funded in part by the CTSA Program [National Center for Data to Health (CD2H)](https://ctsa.ncats.nih.gov/cd2h/) and supported by the NIH National Center for Advancing Translational Sciences, Grant Number U24TR002306, to help guide the cultural and technological changes necessary for data and informatics to improve research and health care._
