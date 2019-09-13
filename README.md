@@ -6,9 +6,8 @@ InvenioRDM enables organizations to securely house research products and make th
 
 Our work is driven by user needs and informed by best practices and standards, including those that help define [Next Generation Repositories](http://ngr.coar-repositories.org/) as a foundation for a distributed, globally-networked infrastructure for scholarly communication, discovery, and innovation. 
 
-Visit our [test site](http://bit.ly/inveniordm-at-nu) to try out InvenioRDM for yourself! [Email](mailto:invenioRDM@northwestern.edu) us if you have questions or if you’d like to request a test user name and password for the site so you can create records of your own.
-
 Join us!
+* Visit our [test site](http://bit.ly/inveniordm-at-nu) to try out InvenioRDM for yourself! [Email](mailto:invenioRDM@northwestern.edu) us if you have questions or if you’d like to request a test user name and password for the site so you can create records of your own.
 * Check out the [#inveniordm](https://app.slack.com/client/T4SPTQGE7/CGH677GUT) channel on the [CD2H Slack](https://cd2h.slack.com/messages) to chat with the InvenioRDM community in CD2H.
 * [Email](mailto:invenioRDM@northwestern.edu) us to request a demonstration or chat.
 * Get updates and test new releases on the [product site](https://invenio-software.org/).
