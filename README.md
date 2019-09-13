@@ -9,7 +9,7 @@ Our work is driven by user needs and informed by best practices and standards, i
 Visit our [test site](http://bit.ly/inveniordm-at-nu) to try out InvenioRDM for yourself! [Email](mailto:invenioRDM@northwestern.edu) us if you have questions or if you’d like to request a test user name and password for the site so you can create records of your own.
 
 Join us!
-* The [#InvenioRDM](https://app.slack.com/client/T4SPTQGE7/CGH677GUT) channel on the [CD2H Slack](https://cd2h.slack.com/messages) is the place to chat with the InvenioRDM community in CD2H.
+* The [#inveniordm](https://app.slack.com/client/T4SPTQGE7/CGH677GUT) channel on the [CD2H Slack](https://cd2h.slack.com/messages) is the place to chat with the InvenioRDM community in CD2H.
 * [Email](mailto:invenioRDM@northwestern.edu) us to request a demonstration or chat
 * Get updates and test new releases on the [product site](https://invenio-software.org/)
 * Take a look at our [competitive landscape analysis](https://github.com/data2health/repository-and-index-software)
