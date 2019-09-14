@@ -6,12 +6,15 @@ InvenioRDM enables organizations to securely house research products and make th
 
 Our work is driven by user needs and informed by best practices and standards, including those that help define [Next Generation Repositories](http://ngr.coar-repositories.org/) as a foundation for a distributed, globally-networked infrastructure for scholarly communication, discovery, and innovation. 
 
-Join us!
+#### Join us!
 * Visit our [test site](http://bit.ly/inveniordm-at-nu) to try out InvenioRDM for yourself! [Email](mailto:invenioRDM@northwestern.edu) us if you have questions or if you’d like to request a test user name and password for the site so you can create records of your own.
 * Check out the [#inveniordm](https://app.slack.com/client/T4SPTQGE7/CGH677GUT) channel on the [CD2H Slack](https://cd2h.slack.com/messages) to chat with the InvenioRDM community in CD2H.
 * Get updates and test new releases on the [product site](https://invenio-software.org/).
 * Take a look at our [competitive landscape analysis](https://github.com/data2health/repository-and-index-software).
 * Get involved with collaboration and discussion through our [open source project](https://github.com/inveniosoftware/invenio-app-rdm). 
+
+![alt text](https://github.com/data2health/InvenioRDM/blob/master/InvenioRDM-development%20roadmap.png "InvenioRDM collaborative project timeline")
+##### InvenioRDM collaborative project timeline ([main site](https://invenio-software.org/) & [collaborative GitHub](https://github.com/inveniosoftware/invenio-app-rdm))
 
 _This project is funded in part by the CTSA Program [National Center for Data to Health (CD2H)](https://ctsa.ncats.nih.gov/cd2h/) and supported by the NIH National Center for Advancing Translational Sciences, Grant Number U24TR002306, to help guide the cultural and technological changes necessary for data and informatics to improve research and health care._
 
@@ -44,9 +47,7 @@ Want to ask a question or just say hi? Please do! If you have already onboarded 
 | **Point person (github handle)**  | **Site** |
 ----------|--------------|
 | Matt Carson (@carsonicator) | Northwestern
-## Leads 
-
-Project scientific leadership, should be 1-3 persons. 
+## Leads
 
 Lead(s) (github handle) | Site
 ----------|--------------|
