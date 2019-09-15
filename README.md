@@ -21,7 +21,7 @@ _This project is funded in part by the CTSA Program [National Center for Data to
 ________________
 
 **Relationships between Next-Generation Repository behaviors and technologies** ([image source data](http://ngr.coar-repositories.org/)). 
-![alt text](https://github.com/data2health/InvenioRDM/blob/master/NGR_Behaviors%26Technologies_2.png "NGR Behaviors and Technologies")
+![alt text](https://github.com/data2health/InvenioRDM/blob/master/NGR_Behaviors%26Technologies_19_09.png "NGR Behaviors and Technologies")
 
 #### Visit the [Confederation of Open Access Repositories](https://www.coar-repositories.org/) (COAR) [NGR resource](http://ngr.coar-repositories.org/) for more information about the behaviors and technologies shown here, user stories related to the behaviors, and more. 
 
