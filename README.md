@@ -18,7 +18,9 @@ Together we are working to build a wide range of features that can help power bi
 
 _This project is funded in part by the CTSA Program [National Center for Data to Health (CD2H)](https://ctsa.ncats.nih.gov/cd2h/) through the NIH National Center for Advancing Translational Sciences, Grant Number U24TR002306 and by the [European Organization for Nuclear Research (CERN)](https://home.cern/) and the [CERN Knowledge Transfer Fund](https://kt.cern/cern-knowledge-transfer-fund-overview) in coordination with over 15 participating partners including Northwestern University Feinberg School of Medicine._
 
-Relationships between Next-Generation Repository behaviors and technologies ([image source data](http://ngr.coar-repositories.org/)). 
+________________
+
+**Relationships between Next-Generation Repository behaviors and technologies** ([image source data](http://ngr.coar-repositories.org/)). 
 ![alt text](https://github.com/data2health/InvenioRDM/blob/master/NGR_Behaviors%26Technologies_2.png "NGR Behaviors and Technologies")
 
 #### Visit the [Confederation of Open Access Repositories](https://www.coar-repositories.org/) (COAR) [NGR resource](http://ngr.coar-repositories.org/) for more information about the behaviors and technologies shown here, user stories related to the behaviors, and more. 
