@@ -1,4 +1,4 @@
-# InvenioRDM
+# CD2H InvenioRDM
 
 ### Welcome!
 
