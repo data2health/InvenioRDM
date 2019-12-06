@@ -47,8 +47,10 @@ Mohammad Hosseini | [github.com](http://github.com) | DublinCity
 Vojtech Huser | [vojtechhuser](https://github.com/vojtechhuser) | NLM
 Violeta Ilik | [vioil](https://github.com/vioil) | Columbia
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
+Rebecca Laird | [github.com](http://github.com) | CLIC
 Harold Lehmann | [hlehmann17](https://github.com/hlehmann17) | JHU
 Leslie Lenert | [LAL200](https://github.com/LAL200) | MUSC
+Prasanth Manukonda | [github.com](http://github.com) | Rockefeller
 Kate Marusina | [github.com](http://github.com) | UCDavisHealth
 Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Eric Miller | [squishymedia](https://github.com/squishymedia) | SquishyMedia
