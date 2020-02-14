@@ -1,17 +1,14 @@
 # CD2H InvenioRDM
 
 ### Welcome!
+* Learn more about the project, connect with project members, and try out the software through our collaborative open source project More information [on the project website](https://github.com/inveniosoftware/invenio-app-rdm). 
+* Visit our [test site](http://bit.ly/inveniordm-at-nu) to try out InvenioRDM for yourself! [Email us](mailto:invenioRDM@northwestern.edu) if you have questions or if you’d like to request a user name and password to log in.
+* Get updates and test new releases on the [InvenioRDM product site](https://invenio-software.org/).
+* Take a look at our [competitive landscape analysis](https://github.com/data2health/repository-and-index-software).
 
 InvenioRDM enables organizations to securely house research products and make them discoverable, shareable, reusable, and citable – from publications and presentations to datasets, software, lay summaries, policy documents, and guidelines. InvenioRDM is being developed as part of a large, multi-organization collaboration in partnership with [CERN](https://home.cern/), birthplace of the World Wide Web and developers of the [Zenodo](https://zenodo.org/) RDM for the European community. Our work is driven by user needs and informed by best practices and standards, including those that help define [Next Generation Repositories](http://ngr.coar-repositories.org/) as a foundation for a distributed, globally-networked infrastructure for scholarly communication, discovery, and innovation. 
 
 Together we are working to build a wide range of features that can help power biomedical research and support data sharing, innovation, knowledge dissemination, and interdisciplinary collaboration.
-
-#### Join us!
-* Visit our [test site](http://bit.ly/inveniordm-at-nu) to try out InvenioRDM for yourself! [Email](mailto:invenioRDM@northwestern.edu) us if you have questions or if you’d like to request a test user name and password for the site so you can create records of your own.
-* Check out the [#inveniordm](https://app.slack.com/client/T4SPTQGE7/CGH677GUT) channel on the [CD2H Slack](https://cd2h.slack.com/messages) to chat with the InvenioRDM community in CD2H.
-* Get updates and test new releases on the [InvenioRDM product site](https://invenio-software.org/).
-* Take a look at our [competitive landscape analysis](https://github.com/data2health/repository-and-index-software).
-* Get involved with collaboration and discussion through our multi-partner collaborative [open source project](https://github.com/inveniosoftware/invenio-app-rdm). 
 
 ![alt text](https://github.com/data2health/InvenioRDM/blob/master/InvenioRDM-development%20roadmap.png "InvenioRDM collaborative project timeline")
 ##### InvenioRDM collaborative project timeline ([main site](https://invenio-software.org/) & [collaborative GitHub](https://github.com/inveniosoftware/invenio-app-rdm))
