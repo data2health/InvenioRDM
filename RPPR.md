@@ -60,3 +60,93 @@ The project team has carefully considered the project, scope, and technology in 
 - **Coordination of interoperable instances of data to allow indexing and search.** Galter Library is in the process of signing a formal MOU to indicate our formal development relationship with CERN. Current collaborative efforts with CERN support a Next Generation Repositories (NGR) as envisioned by the Confederation of Open Access Repositories (COAR), of which Northwestern’s Galter Library is a member, along with other CTSA institution libraries. The NGR serves as a foundation for a distributed, globally networked infrastructure for scholarly communication and will support deployment of value added services, making the system more research-centric and supportive of innovation. NU has a strong collaborative relationship with COAR and CERN and are collaborating with several universities and COAR to launch a NGR group in the United States with the aim of platform-agnostic, cross-repository interoperability.
 - **NGR development will lag or feature requests will overwhelm the development team.** Over the course of the next phases of development, Invenio will be further enhanced with NGR functionality and a range of user-focused features such as easy user profile creation, record upload and metadata options, incorporation of persistent identifiers, connection with site’s authentication system, attribution for contributions, HTML signposting, and robust social and impact components. This work will be completed at Northwestern, with partnership on the NGR work by CERN, NII, and others - allowing us to share the workload. Moreover, a collaborative effort led by CERN had coordinated a new research data management module enhancement for Invenio. This effort will help make research more findable, accessible, interoperable, and reusable in accordance with FAIR data principles.
 - **Staffing.** The substantial work accomplished on this project has been completed by a relatively small team. At present, we are relying on only one very talented software engineer to make all development progress. Until we hire someone, this is a single point of failure and serious illness, change in life plans by this engineer, or other impacts have potential to derail progress significantly.
+
+# Y3 (July 1, 2019-June 30, 2020) Accomplishments 
+The following content is from the June 30 - Dec 30, 2019 mid year progress report [here](https://docs.google.com/document/d/1LLe3uCfEUakWxIJyi5SA4ZocYDmINvhySTperaui1Bw/edit).  Please add progress for Jan 1 - June 30th, 2020. 
+
+* Repository & data index for local deployment:
+    * Establishment of infrastructure that can be easily deployed and managed locally to collect, record,   preserve, and disseminate a wide range of digital works across the translational workforce (e.g., datasets, protocols, education or engagement materials, technical reports, supplemental materials, survey instruments).This infrastructure is necessary to enhance their visibility, promote people and their expertise, support attribution of their work, aid the discovery and accessibility of datasets and other digital objects by the international scientific community, and support open and FAIR science.
+
+    * The first deployment of a research data management repository and data index was completed in 09/2019 on a Northwestern server and made available openly to the public with a login and password to help demonstrate the full function of the platform, available [here](https://vtfsmghslapps04.fsm.northwestern.edu/); [download and installation instructions](https://github.com/inveniosoftware/invenio-app-rdm/wiki) are also available. This local instance was deployed and made available for CTSA Fall Meeting. Since this time, we have merged our code with the collaborative InvenioRDM development effort and have accomplished monthly software releases:
+        * [October release](https://invenio-talk.web.cern.ch/t/inveniordm-alpha-1-october-release/44) on 10//2019
+        * [November release](https://invenio-talk.web.cern.ch/t/inveniordm-alpha-2-november-release/51) on 11/29/2019
+        * [December release](https://invenio-talk.web.cern.ch/t/inveniordm-alpha-3-december-release/61) on 12/20/2019
+
+    * This work is ongoing and wrapped into the larger InvenioRDM collaborative development effort. The same schedule of monthly releases is planned for January, February, and March 2020 to complete the early development and testing activities and produce the release candidate. The final release is due June 2020.
+
+    * The GitHub project [roadmap](https://inveniosoftware.org/products/rdm/roadmap/) and [monthly project boards](https://github.com/orgs/inveniosoftware/projects) detail what has been completed, current work, and future tasks. We’ve made significant progress on development and plan to continue this work in the Phase 3 period as part of the development work.
+
+* Repository landscape analysis:
+    * We have created a list of repositories, repository frameworks, and data catalogs to:
+
+      * Provide a "lay of the land" summary of existing software
+      * Identify important features (especially those that fall in the "next generation repository" category) that we'll want to incorporate in our repository and data index project, InvenioRDM
+      * Identify the tools that may have some level of interoperability with our project
+
+    * This survey focuses on technical architecture, how metadata is handled and what standards are used, and what next-generation repository features (if any) are implemented.
+
+    * This is an ongoing analysis. To access the living doc, go here. Ticket 77 is associated with this work and is marked as an ‘good first issue’ for new contributors to the project. It is regularly updated and new related tools are added as appropriate. Here is the living document and associated GitHub repository.
+
+
+* Documentation & use cases:
+    * Our project Github is a living source of documentation and uses cases and we have made significant progress over this funding cycle in this area, outlined below:
+
+    * InvenioRDM use case slides were made for the CTSA fall meeting and are available here. 
+
+    * Other project resources to support documentation and use case objective 
+      * CD2H GitHub site for InvenioRDM
+      * Galter Library GitHub site for local deployment
+      * InvenioRDM GitHub site at CERN
+      * Invenio Framework:
+        * Documentation
+        * Training
+      * The Invenio Project Read the Docs is a rich source of documentation. It is also a live document, constantly being updated.
+      * InvenioRDM Read the Docs, similar to above but specifically for the turn key RDM project
+      * InvenioRDM deployment and installation Wiki
+
+* Branding and outreach:
+    * We have focused significant efforts on outreach and branding efforts for the collaborative project and especially to support requirements gathering and US-based adoption.
+      * We have contacted all CD2H participants who’ve onboarded and indicated an interest in this project to say hi, remind them of our github, and direct them here.
+      * We continue to contact people who have indicated interest in our project but never onboarded, share this [CD2H GitHub site](https://github.com/data2health/InvenioRDM).
+      * Make use of #InvenioRDM on [CD2H Slack](https://cd2h.slack.com/messages). This channel will be used to chat about the project, answer questions, be a community spot. We'll also share relevant files, presentations, announcements for feedback, networking.
+      * Social coding - Use Github to communicate, share work and collaborate with above mentioned communities
+      * Conferences/Workshops - Attend Open Source Conference - [OSCON](https://conferences.oreilly.com/oscon/oscon-or) (Summer 2019)
+      * Explore collaborations with existing systems such as the [Data Catalog Collaboration Project](https://www.datacatalogcollaborationproject.org/) (DCCP), NYU, UVA, and others to enhance interoperability.
+      * Collaboration with the [Institute for Innovations in Developmental Sciences](https://devsci.northwestern.edu/), a transdisciplinary group at Northwestern University focused on the lifespan. We attend biweekly meetings to understand their needs, and will work with them as our first user group upon deployment.
+      * Create documentation and support for the community
+      * Periodic briefs and/or presentations to key stakeholders
+      * Social media - Share updates and/or examples of work through blog posts, [Twitter](https://www.twitter.com/data2health), newsletters.
+      * [InvenioRDM website](https://inveniosoftware.org/products/rdm/) launched September 2019.
+      * Current project [Roadmap](https://inveniosoftware.org/products/rdm/roadmap/).
+      * [Discussion Forum](https://invenio-talk.web.cern.ch/c/projects/invenio-rdm) for collaborative decision making and documentation of decisions
+      * [Gitter channel](https://gitter.im/inveniosoftware/InvenioRDM) for technical and conceptual discussion
+      * [InvenioRDM-related Events](https://inveniosoftware.org/events/) such as webinars, training bootcamps, and workshops
+      * [InvenioRDM Features and FAQs](https://inveniosoftware.org/products/rdm/#features)
+      * [InvenioRDM Project Board](https://github.com/orgs/inveniosoftware/projects): describes individual technical tasks that are completed, in-progress, and upcoming. The project boards are created monthly and lay out the scope of work for the sprint. 
+      * [InvenioRDM Request For Comments (RFCs)](https://github.com/inveniosoftware/rfcs): RFCs help to coordinate the design process, produce consensus among stakeholders, and document design decisions. It also allows community members to express their opinions on design and features for the project, available on GitHub.
+
+* Engagement
+    * InvenioRDM project press, such as the[Announcement](https://invenio-software.org/blog/2019-04-29-rdm/) for InvenioRDM collaboration.
+   * Online meeting introducing Andrew Willliams of Tufts to Invenio (Kristi Holmes, Matt Carson, Sara  Gonzales, Guillaume Viger, Lisa O'Keefe - 12/2/2019)
+   * Presentation and Demo - InvenioRDM: Deployable Digital Repository Software by CERN and Northwestern University (Guillaume Viger, Code4Lib Chicago Fall 2019 Meeting, 11/14/2019)		
+   * Presentation - Personas and their use in a Library Development Project (Sara Gonzales, Code4Lib Chicago Fall 2019 Meeting, 11/14/2019)
+   * Presentation - [CERN InvenioRDM kickoff, slides](https://digitalhub.northwestern.edu/files/77a0ca55-82c7-4256-9f1f-94c39af49cbe)
+   * [Presentation](https://zenodo.org/record/3570807) and real-time installation demonstration, Coalition for Networked Information meeting
+    * Seminar at Washington University 11/4/2019 
+    * Seminar at  Northwestern University 12/3/2019
+    * Presentation - The Association of Black Cardiologists (ABC) Cardiovascular Implementation Study (CVIS), CD2H and InvenioRDM. 12/15/2019
+
+* Collaborations
+    * The team has been encouraged by the discussions and opportunities for collaboration with the Data Catalog Collaboration Project (DCCP) through various meetings and activities (DCCP includes NYU Langone Health; Duke University; Memorial Sloan Kettering Cancer Center; University of Maryland, Baltimore; University of North Carolina at Chapel Hill; University of Pittsburgh; University of Virginia; Wayne State University; Weill Cornell Medicine; Zucker School of Medicine at Hofstra/Northwell, with extensive  conversations and/or demos for NYU, University of Virginia, and Duke to date). This larger collaboration is moving to a “platform-agnostic model” and Northwestern has joined this open collaboration. Sara Gonzales has been invited to a workshop about data catalogs and indexes in February at NYU based on her extensive work to date on the InvenioRDM tool.
+
+* Demos completed/scheduled
+    * UVA, Caltech, Tufts, University of Maryland/JHU, University of Nebraska Medical Center, UCDavis
+University of Arizona, University of Buffalo, and Yale University. 
+
+* Communications
+    * Emails about InvenioRDM activities have been sent to the following listservs: the Association of Academic Health Sciences Libraries (AAHSL), Research Impact Services, and Transforming Research
+
+    * The project and outputs have been shared widely on Twitter, targeting #CTSAProgram, #medlibs, #datalibs, and events such as the CTSA Program fall meeting, the Coalition for Networked Information fall meeting, and others.
+
+* Guidebook content (Repository architecture and culture to support CTS, Best Practices for Disseminating CTS)
+    * The Guidebook Chapter is complete and available for viewing [here](https://reusable-data-best-practices.readthedocs.io/en/latest/chapters/chapter_7.html). 
