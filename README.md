@@ -1,7 +1,9 @@
 # CD2H InvenioRDM
 
 ### Welcome!
-* Learn more about the project, connect with project members, and try out the software through our collaborative open source project More information [on the project website](https://github.com/inveniosoftware/invenio-app-rdm). 
+* To view all of our current project issues: https://github.com/inveniosoftware/invenio-rdm-records/issues
+* Learn more about the project, connect with project members, and try out the software through our collaborative open source project More information [on the project website](https://invenio-software.org/). 
+* Visit our [project Github repo](https://github.com/inveniosoftware). 
 * Visit our [test site](http://bit.ly/inveniordm-at-nu) to try out InvenioRDM for yourself! [Email us](mailto:invenioRDM@northwestern.edu) if you have questions or if you’d like to request a user name and password to log in.
 * Get updates and test new releases on the [InvenioRDM product site](https://invenio-software.org/).
 * Take a look at our [competitive landscape analysis](https://github.com/data2health/repository-and-index-software).
