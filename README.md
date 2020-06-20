@@ -1,22 +1,25 @@
 # CD2H InvenioRDM
 
 ### Welcome!
-* To view all of our current project issues: https://github.com/inveniosoftware/invenio-rdm-records/issues
-* Learn more about the project, connect with project members, and try out the software through our collaborative open source project More information [on the project website](https://invenio-software.org/). 
-* Visit our [project Github repo](https://github.com/inveniosoftware). 
-* Visit our April [Project board](https://github.com/orgs/inveniosoftware/projects/40)
-* Visit our [test site](http://bit.ly/inveniordm-at-nu) to try out InvenioRDM for yourself! [Email us](mailto:invenioRDM@northwestern.edu) if you have questions or if you’d like to request a user name and password to log in.
-* Get updates and test new releases on the [InvenioRDM product site](https://invenio-software.org/).
-* Take a look at our [competitive landscape analysis](https://github.com/data2health/repository-and-index-software).
 
-InvenioRDM enables organizations to securely house research products and make them discoverable, shareable, reusable, and citable – from publications and presentations to datasets, software, lay summaries, policy documents, and guidelines. InvenioRDM is being developed as part of a large, multi-organization collaboration in partnership with [CERN](https://home.cern/), birthplace of the World Wide Web and developers of the [Zenodo](https://zenodo.org/) RDM for the European community. Our work is driven by user needs and informed by best practices and standards, including those that help define [Next Generation Repositories](http://ngr.coar-repositories.org/) as a foundation for a distributed, globally-networked infrastructure for scholarly communication, discovery, and innovation. 
+[InvenioRDM](https://inveniosoftware.org/products/rdm/) is a a turnkey, born-interoperable repository and data catalog to empower researchers to engage in best practices around research data management, sharing, and reuse; InvenioRDM can be easily deployed, customized, and managed by a local team to collect, preserve, and disseminate a wide range of digital works across the translational workforce, to enhance individual and institutional visibility, promote people and their expertise, support the discovery and accessibility by the international scientific community, and empower open and FAIR science. 
 
-Together we are working to build a wide range of features that can help power biomedical research and support data sharing, innovation, knowledge dissemination, and interdisciplinary collaboration.
+Want to stay in touch and receive updates about calls and software releases? [Please sign up](https://forms.gle/sVL7QWG6GwCW6dhn9)! 
 
-![alt text](https://github.com/data2health/InvenioRDM/blob/master/InvenioRDM-development%20roadmap.png "InvenioRDM collaborative project timeline")
-##### InvenioRDM collaborative project timeline ([main site](https://invenio-software.org/) & [collaborative GitHub](https://github.com/inveniosoftware/invenio-app-rdm))
+* Learn more about the project:
+* [InvenioRDM project website](https://inveniosoftware.org/products/rdm/)
+* [Invenio Blog](https://inveniosoftware.org/blog/)
+* [Visit the sandbox](https://inveniordm.web.cern.ch/)
+* [Source code](https://github.com/inveniosoftware/invenio-app-rdm) and [open issues](https://github.com/inveniosoftware/invenio-rdm-records/issues) on GitHub
+* [Documentation](https://inveniordm.docs.cern.ch/)
+ 
+Related reources
+* [Northwestern test site](http://bit.ly/inveniordm-at-nu) to try out InvenioRDM for yourself! [Email us](mailto:invenioRDM@northwestern.edu) if you have questions or if you’d like to request a user name and password to log in.
+* [Repository landscape analysis](https://docs.google.com/spreadsheets/d/1mhLmp2pwUyHLxOmOFmZFVUK1ft6r5QY9ffXRWdlT6BY/edit#gid=13546219).
 
-_This project is funded in part by the CTSA Program [National Center for Data to Health (CD2H)](https://ctsa.ncats.nih.gov/cd2h/) through the NIH National Center for Advancing Translational Sciences, Grant Number U24TR002306 and by the [European Organization for Nuclear Research (CERN)](https://home.cern/) and the [CERN Knowledge Transfer Fund](https://kt.cern/cern-knowledge-transfer-fund-overview) in coordination with over 15 participating partners including Northwestern University Feinberg School of Medicine._
+InvenioRDM is being developed as part of a large, multi-organization collaboration in partnership with [CERN](https://home.cern/), birthplace of the World Wide Web and developers of the [Zenodo](https://zenodo.org/) RDM for the European community. Our work is driven by user needs and informed by best practices and standards, including those that help define [Next Generation Repositories](http://ngr.coar-repositories.org/) as a foundation for a distributed, globally-networked infrastructure for scholarly communication, discovery, and innovation. 
+
+_This project is funded in part by the CTSA Program [National Center for Data to Health (CD2H)](https://ctsa.ncats.nih.gov/cd2h/) through the NIH National Center for Advancing Translational Sciences, Grant Number U24TR002306 and by the [European Organization for Nuclear Research (CERN)](https://home.cern/) and the [CERN Knowledge Transfer Fund](https://kt.cern/cern-knowledge-transfer-fund-overview) in coordination with over 25 participating partners._
 
 ________________
 
