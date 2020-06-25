@@ -15,7 +15,7 @@ Want to stay in touch and receive updates about calls and software releases? [Si
  
 ## Related reources
 * [Northwestern test site](http://bit.ly/inveniordm-at-nu) We welcome you to [email us](mailto:invenioRDM@northwestern.edu) if you have questions or if you’d like to request a user name and password to log in.
-* [Repository landscape analysis](https://docs.google.com/spreadsheets/d/1mhLmp2pwUyHLxOmOFmZFVUK1ft6r5QY9ffXRWdlT6BY/edit#gid=13546219)
+* [Repository landscape analysis](https://github.com/data2health/repository-and-index-software)
 
 InvenioRDM is being developed as part of a large, multi-organization collaboration in partnership with [CERN](https://home.cern/), birthplace of the World Wide Web and developers of the [Zenodo](https://zenodo.org/) RDM for the European community. Our work is driven by user needs and informed by best practices and standards, including those that help define [Next Generation Repositories](http://ngr.coar-repositories.org/) as a foundation for a distributed, globally-networked infrastructure for scholarly communication, discovery, and innovation. 
 
